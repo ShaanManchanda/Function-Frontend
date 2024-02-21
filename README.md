@@ -1,4 +1,4 @@
-# 🌐 Web3 Local Bank
+# 🌐 Function Frontend Bank
 
 > 💸 A Simple Web3 application for transferring Ether and personalizing your account. 
 
